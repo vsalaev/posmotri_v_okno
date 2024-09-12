@@ -31,7 +31,6 @@ fieldset {
   margin: 0;
   padding: 0;
   border: none;
-
 }
 
 ul,
@@ -62,7 +61,7 @@ ol {
 
 /*--*/
 
-.result__video-container{
+.result__video-container {
   position: relative;
 }
 
@@ -125,15 +124,12 @@ ol {
 }
 
 .search-form__label-text {
-font-family: Fira Sans Condensed;
-font-size: 18px;
-font-weight: 400;
-line-height: 21.6px;
-text-align: left;
-
+  font-family: Fira Sans Condensed;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21.6px;
+  text-align: left;
 }
-
-
 
 .search-form__pseudo-checkbox {
   /*display: inline-block; */
